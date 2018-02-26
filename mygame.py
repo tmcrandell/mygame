@@ -1,4 +1,6 @@
 #!/usr/bin/python
+#very clean code, easy to tell what's going on
+#in displayText function, what does type do? how do you apply it?
 
 import serial, pygame, sys
 import colors, math, time
